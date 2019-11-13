@@ -1,8 +1,9 @@
+# encoding: utf-8
 Data = {
     # Datos de presentacion
-    "Titulo" : "Antonio Pérez",
+    "Titulo" : u"Antonio Pérez",
     "Nombres" : "Antonio",
-    "Apellidos" : "Pérez Ugalde",
+    "Apellidos" : u"Pérez Ugalde",
     "Imagen" : "https://scontent.fcyw3-1.fna.fbcdn.net/v/t1.0-9/28958775_2098097743758607_295344947464073307_n.jpg?_nc_cat=111&_nc_oc=AQlGQ74YEnaY6GEWzzfy-ZuFHE0mrWhvt9hhCmc-p5oYNGXYBSS0EjhGv3D1ry5KOP8&_nc_ht=scontent.fcyw3-1.fna&oh=ef9ac3156818fb1ba4f7cd7f6ffba4ef&oe=5E4C5724",
     "Color" : "warning",
     
@@ -35,7 +36,7 @@ Data = {
 Trabajo_1 = {
     "Cargo" : "Desarrollador",
     "Periodo" : "Marzo 2013 - Presente",
-    "Empresa" : "Fuentes Eléctricas",
+    "Empresa" : u"Fuentes Eléctricas",
     "Resumen" : """Bring to the table win-win survival strategies to ensure proactive domination. At the end 
                 of the day, going forward, a new normal that has evolved from generation X is on the runway 
                 heading towards a streamlined cloud solution. User generated content in real-time will have 
@@ -116,10 +117,10 @@ Interests = """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tris
 
 Awards = [
     "Google Analytics Certified Developer",
-    "Concurso de creatividad e innovación",
+    u"Concurso de creatividad e innovación",
     "1st Place - University of Colorado Boulder - Emerging Tech Competition 2009",
     "1st Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)",
     "2nd Place - Matraces DCNE SEIMIQ",
     "1st Place - James Buchanan High School - Hackathon 2006",
-    "3rd Place - Ceremonia merito académico",
+    u"3rd Place - Ceremonia merito académico",
 ]
