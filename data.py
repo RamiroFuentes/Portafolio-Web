@@ -88,14 +88,14 @@ Escuela_3 = {
     "Escuela" : "Escuela Nacional de Estudios superiores",
     "Periodo" : "Agosto 2019 - Diciembre 2020",
     "Ocupacion" : "Diplomante",
-    "Departamento" : "Sistema de educación continua"
+    "Departamento" : u"Sistema de educación continua"
 }
 Education = [Escuela_1,Escuela_2,Escuela_3]
 
 
 Skills = {
     "Herramientas" : ['Aspen Plus','ANSYS Fluent','MATLAB','Microsoft Excel','Python','HTML','CSS'],
-    "Workflow": ['Mobile-First, Responsive Design','Seguridad','Fenomenos de transporte','Simulación de procesos']
+    "Workflow": ['Mobile-First, Responsive Design','Seguridad','Fenomenos de transporte',u'Simulación de procesos']
 }
 
 Interests = u"""Apasionado por la ciencia y el desarrollo tecnológico, la programación y la domótica. Con mi trabajo busco
