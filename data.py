@@ -34,7 +34,7 @@ Data = {
 }
 
 Trabajo_1 = {
-    "Cargo" : "Coordinador de Tecnología",
+    "Cargo" : u"Coordinador de Tecnología",
     "Periodo" : "Marzo 2020 - Presente",
     "Empresa" : u"Future Lab",
     "Resumen" : u"""Coordinador de Tecnología a cargo del desarrollo de la plataforma para hosteo de hackatones. Algunas actividades
@@ -60,9 +60,9 @@ Trabajo_3 = {
 }
 
 Trabajo_4 = {
-    "Cargo" : "Operario de Grúa",
+    "Cargo" : u"Operario de Grúa",
     "Periodo" : "Septiembre 2019 - Actualmente",
-    "Empresa" : "Shout! Media Productions",
+    "Empresa" : u"Fuentes Eléctricas",
     "Resumen" : u"""Operario de grúa para aplicaciones en sistemas electromecanicos, instalación de Transformadores, Postes y movimiento de 
                 cargas""" 
 }
@@ -78,10 +78,10 @@ Escuela_1 = {
 }
 
 Escuela_2 = {
-    "Escuela" : "Colegio de Nivel Medio Superior",
-    "Periodo" : "Agosto 2014 - Julio 2017",
-    "Ocupacion" : "Bachiller",
-    "Departamento" : "Escuelas de Nivel Medio Superior"
+    "Escuela" : u"Colegio de Nivel Medio Superior",
+    "Periodo" : u"Agosto 2014 - Julio 2017",
+    "Ocupacion" : u"Bachiller",
+    "Departamento" : u"Escuelas de Nivel Medio Superior"
 }
 
 Escuela_3 = {
