@@ -2,10 +2,10 @@
 Data = {
     # Datos de presentacion
     "Titulo" : u"Ramiro Fuentes",
-    "Nombres" : "Jose Ramiro",
+    "Nombres" : u"José Ramiro",
     "Apellidos" : u"Fuentes Lara",
     "Imagen" : "../static/img/foto.png",
-    "Color" : "warning",
+    "Color" : "primary",
     
     # About
     "Calle" : "Herradura",
@@ -16,9 +16,9 @@ Data = {
     "Email" : "jr.fuenteslara@ugto.mx",
 
     # Redes sociales 
-    "Url LinkedIn" : "https://www.linkedin.com/",
-    "Url Twitter" : "https://twitter.com/?lang=es",
-    "Url Facebook" : "https://www.facebook.com/",
+    "Url LinkedIn" : "https://www.linkedin.com/in/jose-ramiro-fuentes-lara-055331195/",
+    "Url Twitter" : "https://twitter.com/RamiroFuentesL",
+    "Url Facebook" : "https://www.facebook.com/joseramiro.fuentes.9",
 
     # Semblanza
     "Semblanza" : """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique purus velit, 
@@ -34,43 +34,37 @@ Data = {
 }
 
 Trabajo_1 = {
-    "Cargo" : "Desarrollador",
-    "Periodo" : "Marzo 2013 - Presente",
-    "Empresa" : u"Fuentes Eléctricas",
-    "Resumen" : """Bring to the table win-win survival strategies to ensure proactive domination. At the end 
-                of the day, going forward, a new normal that has evolved from generation X is on the runway 
-                heading towards a streamlined cloud solution. User generated content in real-time will have 
-                multiple touchpoints for offshoring.""" 
+    "Cargo" : "Coordinador de Tecnología",
+    "Periodo" : "Marzo 2020 - Presente",
+    "Empresa" : u"Future Lab",
+    "Resumen" : u"""Coordinador de Tecnología a cargo del desarrollo de la plataforma para hosteo de hackatones. Algunas actividades
+                    varias relacionadas pueden ser: organización de charlas y talleres, conferencista en eventos organizados en el Tec 
+                    de Monterrey Campus Leon en colaboración con GEAR y charlas de introducción a la programación Web en colaboración con
+                    SEIMIQ-UG 2019-2020""" 
 }
 
 Trabajo_2 = {
-    "Cargo" : "Desarrollador Web",
-    "Periodo" : "Diciembre 2011 - Presente",
-    "Empresa" : "Intelitec Solutions",
-    "Resumen" : """Bring to the table win-win survival strategies to ensure proactive domination. At the end 
-                of the day, going forward, a new normal that has evolved from generation X is on the runway 
-                heading towards a streamlined cloud solution. User generated content in real-time will have 
-                multiple touchpoints for offshoring.""" 
+    "Cargo" : "Vicepresidente SEIMIQ-UG 2019-2020",
+    "Periodo" : "Mayo 2019 - Agosto 2020",
+    "Empresa" : u"Sección Estudiantil del Instituto Mexicano de Ingenieros Químicos",
+    "Resumen" : u"""Dentro de los cargos de vicepresidente se organizaron eventos como charlas y talleres relacionados con el ambiente de la 
+                ingeniería química, actividades de integración como el Día del amor y la amistad entre otros. Durante mi gestión fuimos acredores al 
+                premio de mejor sección estudiantil del period Agosto-2019 Diciembre - 2020"""
 }
 
 Trabajo_3 = {
-    "Cargo" : "Junior Web Designer",
-    "Periodo" : "July 2010 - December 2011",
-    "Empresa" : "Shout! Media Productions",
-    "Resumen" : """Bring to the table win-win survival strategies to ensure proactive domination. At the end 
-                of the day, going forward, a new normal that has evolved from generation X is on the runway 
-                heading towards a streamlined cloud solution. User generated content in real-time will have 
-                multiple touchpoints for offshoring.""" 
+    "Cargo" : "Ayudante General Electricista",
+    "Periodo" : "Julio 2016 - Actualmente",
+    "Empresa" : u"Fuentes Eléctricas",
+    "Resumen" : u"""Ayudante gerelar en oficios relacionados con la electricidad como instalaciónes domésticas, subestaciones eléctricas."""
 }
 
 Trabajo_4 = {
-    "Cargo" : "Web Design Intern",
-    "Periodo" : "September 2010 - December 2011",
+    "Cargo" : "Operario de Grúa",
+    "Periodo" : "Septiembre 2019 - Actualmente",
     "Empresa" : "Shout! Media Productions",
-    "Resumen" : """Bring to the table win-win survival strategies to ensure proactive domination. At the end 
-                of the day, going forward, a new normal that has evolved from generation X is on the runway 
-                heading towards a streamlined cloud solution. User generated content in real-time will have 
-                multiple touchpoints for offshoring.""" 
+    "Resumen" : u"""Operario de grúa para aplicaciones en sistemas electromecanicos, instalación de Transformadores, Postes y movimiento de 
+                cargas""" 
 }
 
 
@@ -78,49 +72,42 @@ Experience = [Trabajo_1,Trabajo_2,Trabajo_3,Trabajo_4]
 
 Escuela_1 = {
     "Escuela" : "Universidad de Guanajuato DCNE",
-    "Periodo" : "September 2010 - December 2011",
-    "Ocupacion" : "Bachelor of Science",
-    "Departamento" : "Chemical Engineering"
+    "Periodo" : "Agosto 2017 - Julio 2022",
+    "Ocupacion" : "Estudiante de Ciencias",
+    "Departamento" : u"Ingeniería Química"
 }
 
 Escuela_2 = {
     "Escuela" : "Colegio de Nivel Medio Superior",
-    "Periodo" : "September 2010 - December 2011",
-    "Ocupacion" : "Bachelor",
-    "Departamento" : "Escuelas de nivel medio superior"
+    "Periodo" : "Agosto 2014 - Julio 2017",
+    "Ocupacion" : "Bachiller",
+    "Departamento" : "Escuelas de Nivel Medio Superior"
 }
 
 Escuela_3 = {
-    "Escuela" : "Kinder Octavio Paz",
-    "Periodo" : "September 2002 - December 2005",
-    "Ocupacion" : "Student",
-    "Departamento" : "Kindergarden"
+    "Escuela" : "Escuela Nacional de Estudios superiores",
+    "Periodo" : "Agosto 2019 - Diciembre 2020",
+    "Ocupacion" : "Diplomante",
+    "Departamento" : "Sistema de educación continua"
 }
 Education = [Escuela_1,Escuela_2,Escuela_3]
 
 
 Skills = {
-    "Herramientas" : ['Aspen Plus','ANSYS Fluent','MATLAB','Microsoft Excel'],
-    "Workflow": ['Mobile-First, Responsive Design','Security','Transport Phenomena','Simulation and Processes']
+    "Herramientas" : ['Aspen Plus','ANSYS Fluent','MATLAB','Microsoft Excel','Python','HTML','CSS'],
+    "Workflow": ['Mobile-First, Responsive Design','Seguridad','Fenomenos de transporte','Simulación de procesos']
 }
 
-Interests = """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique purus velit, 
-            sit amet accumsan lectus blandit a. Fusce faucibus dolor sed vulputate interdum. Pellentesque 
-            at ex eros. In dignissim congue dui eget mattis. Sed massa ipsum, molestie vitae nulla vel, 
-            rhoncus euismod est. Donec venenatis orci sed lorem interdum vehicula. Proin felis lectus, 
-            egestas vel lacus vel, venenatis pellentesque arcu. Nullam consectetur semper enim, id eleifend 
-            mi commodo luctus.Vivamus quis blandit urna, in commodo felis. Vivamus rhoncus semper maximus. 
-            Phasellus convallis risus a eros rhoncus, non laoreet tellus viverra. Etiam et sapien arcu. 
-            Nulla commodo nibh at magna dapibus accumsan. Pellentesque bibendum, neque non rutrum dictum, 
-            lorem nibh lobortis ante, sit amet bibendum urna dolor ac risus. Morbi malesuada est sit amet 
-            nibh tincidunt pellentesque."""
+Interests = u"""Apasionado por la ciencia y el desarrollo tecnológico, la programación y la domótica. Con mi trabajo busco
+            generar soluciones que nos lleven a un estilo de vida más sustentable. Todos los proyectos que desarrollo los elaboro
+            mediente el flujo de trabajo que he aprendido a lo largo de mi vida en los cursos y talleres que participo. Me encanta 
+            compartir el conocimiento y pararme en frente de un público a compartir mis ideas."""
 
 Awards = [
-    "Google Analytics Certified Developer",
-    u"Concurso de creatividad e innovación",
-    "1st Place - University of Colorado Boulder - Emerging Tech Competition 2009",
-    "1st Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)",
-    "2nd Place - Matraces DCNE SEIMIQ",
-    "1st Place - James Buchanan High School - Hackathon 2006",
-    u"3rd Place - Ceremonia merito académico",
+    u"Diplomado en Habilidades blandas para emprender e innovar - Diciembre 2019",
+    u"1er Lugar - Concurso regional de creatividad e innovación - Octubre 2019",
+    u"1st Place - Concurso a nivel división de Creatividad e innovación - Mayo 2019",
+    u"1er Lugar - Foro de talento e inoovación ENES Leon UNAM - Mayo 2019",
+    u"Reconocimiento al desarrollo de la mentefactura oor incubadora Novaera - Noviembre 2019 ",
+    u"Participante premio estatal a la innovación tecnológica - Noviembre 2019",
 ]
