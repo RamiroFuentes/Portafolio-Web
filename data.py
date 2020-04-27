@@ -1,10 +1,10 @@
 # encoding: utf-8
 Data = {
     # Datos de presentacion
-    "Titulo" : u"Antonio Pérez",
-    "Nombres" : "Antonio",
-    "Apellidos" : u"Pérez Ugalde",
-    "Imagen" : "https://scontent.fcyw3-1.fna.fbcdn.net/v/t1.0-9/28958775_2098097743758607_295344947464073307_n.jpg?_nc_cat=111&_nc_oc=AQlGQ74YEnaY6GEWzzfy-ZuFHE0mrWhvt9hhCmc-p5oYNGXYBSS0EjhGv3D1ry5KOP8&_nc_ht=scontent.fcyw3-1.fna&oh=ef9ac3156818fb1ba4f7cd7f6ffba4ef&oe=5E4C5724",
+    "Titulo" : u"Ramiro Fuentes",
+    "Nombres" : "José Ramiro",
+    "Apellidos" : u"Fuentes Lara",
+    "Imagen" : "../static/img/foto.png",
     "Color" : "warning",
     
     # About
@@ -13,7 +13,7 @@ Data = {
     "Colonia" : "Noria Alta",
     "CP" : "36050",
     "Telefono" : "(464) 117-0304",
-    "Email" : "pu.antonio@ugto.mx",
+    "Email" : "jr.fuenteslara@ugto.mx",
 
     # Redes sociales 
     "Url LinkedIn" : "https://www.linkedin.com/",
