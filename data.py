@@ -2,7 +2,7 @@
 Data = {
     # Datos de presentacion
     "Titulo" : u"Ramiro Fuentes",
-    "Nombres" : "José Ramiro",
+    "Nombres" : "Jose Ramiro",
     "Apellidos" : u"Fuentes Lara",
     "Imagen" : "../static/img/foto.png",
     "Color" : "warning",
