@@ -21,16 +21,12 @@ Data = {
     "Url Facebook" : "https://www.facebook.com/joseramiro.fuentes.9",
 
     # Semblanza
-    "Semblanza" : """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique purus velit, 
-                    sit amet accumsan lectus blandit a. Fusce faucibus dolor sed vulputate interdum. Pellentesque 
-                    at ex eros. In dignissim congue dui eget mattis. Sed massa ipsum, molestie vitae nulla vel, 
-                    rhoncus euismod est. Donec venenatis orci sed lorem interdum vehicula. Proin felis lectus, 
-                    egestas vel lacus vel, venenatis pellentesque arcu. Nullam consectetur semper enim, id eleifend 
-                    mi commodo luctus. Vivamus quis blandit urna, in commodo felis. Vivamus rhoncus semper maximus. 
-                    Phasellus convallis risus a eros rhoncus, non laoreet tellus viverra. Etiam et sapien arcu. 
-                    Nulla commodo nibh at magna dapibus accumsan. Pellentesque bibendum, neque non rutrum dictum, 
-                    lorem nibh lobortis ante, sit amet bibendum urna dolor ac risus. Morbi malesuada est sit amet 
-                    nibh tincidunt pellentesque."""
+    "Semblanza" : u"""Estudiante de la licenciatura en ingeniería química, entusiasta en el desarrollo 
+                     de proyectos de alto impacto ambiental con conocimiento en la rama de la programación 
+                     y la electrónica, habilidades blandas y expresión oral, con numerosos talleres para 
+                     la exposición rápida de proyectos y un diplomado en habilidades blandas para emprender 
+                     e innovar, encargado principalmente del desarrollo ingenieril del proyecto y como 
+                     llevar a cabo las ideas propuestas."""
 }
 
 Trabajo_1 = {
@@ -110,4 +106,5 @@ Awards = [
     u"1er Lugar - Foro de talento e inoovación ENES Leon UNAM - Mayo 2019",
     u"Reconocimiento al desarrollo de la mentefactura oor incubadora Novaera - Noviembre 2019 ",
     u"Participante premio estatal a la innovación tecnológica - Noviembre 2019",
+    u"Finalista en el 15 Concurso de Creatividad e Innovación UG 2020",
 ]
